@@ -17,6 +17,7 @@ int main()
     else
     {
         printf("Both are Equal\n");
+	printf("execution end");
     }
     return 0;
 }
